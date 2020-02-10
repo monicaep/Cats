@@ -1,0 +1,23 @@
+.General {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    color: #5b5758;
+}
+
+.General-title {
+    text-transform: capitalize;
+}
+
+.list-group {
+    margin: 2em;
+}
+
+.General-title:active {
+    background-color: aquamarine !important;
+}
+
+.Description-title {
+    font-size: 1.5rem;
+    text-decoration: underline;
+}
