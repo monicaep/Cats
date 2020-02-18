@@ -12,7 +12,7 @@ class General extends Component {
                         <li>1 serving of wet food per day.</li>
                         <li>You can use the colorful baby spoons to serve the wet food.</li>
                         <li>Please rinse wet food bowls after they're done eating, otherwise the wet food gets crusty.</li>
-                        <li>Please keep kibble bowls filled.</li>
+                        <li>Please keep kibble bowls filled (bowls in front of patio door and next to bathroom sink).</li>
                         <li>There is more kibble in the hallway closet if the jars run out.</li>
                     </ul>
                 </div>
@@ -20,21 +20,21 @@ class General extends Component {
                     <h5 className='Description-title'>Luna</h5>
                     <ul className='Description-detail'>
                         <li>Blue bowl</li>
-                        <li>Gets ~5 spoonfulls of the morsel wet food</li>
+                        <li>Gets ~5 spoonfulls of the morsel wet food (Wellness brand yellow and green or yellow and blue can)</li>
                     </ul>
                 </div>
                 <div>
                     <h5 className='Description-title'>Gunchan</h5>
                     <ul className='Description-detail'>
                         <li>White mason bowl</li>
-                        <li>Half a can of kitten pate</li>
+                        <li>Half a can of pate (Wellness brand yellow and pink can)</li>
                     </ul>
                 </div>
                 <div>
                     <h5 className='Description-title'>Reggie</h5>
                     <ul className='Description-detail'>
                         <li>White square bowl</li>
-                        <li>Half a can of kitten pate</li>
+                        <li>Half a can of pate (Wellness brand yellow and pink can)</li>
                     </ul>
                 </div>
             </div>
